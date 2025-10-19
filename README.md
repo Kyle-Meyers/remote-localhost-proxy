@@ -60,12 +60,12 @@ pip install -r requirements.txt
 ```
 # Windows (PowerShell)
 
-$env:PROXY_EMAIL="[youremail@gmail.com](mailto:youremail@gmail.com)"
+$env:PROXY_EMAIL="youremail@gmail.com"
 $env:INTERSTELLAR_PATH="C:\path\to\Interstellar\folder"
 
 # macOS/Linux
 
-export PROXY_EMAIL="[youremail@gmail.com](mailto:youremail@gmail.com)"
+export PROXY_EMAIL="youremail@gmail.com"
 export INTERSTELLAR_PATH="\path\to\Interstellar\folder"
 ```
 
